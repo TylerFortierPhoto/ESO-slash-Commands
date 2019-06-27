@@ -213,9 +213,9 @@ Character animations:
 Here's the OP:
 https://forums.elderscrollsonline.com/en/discussion/comment/4595867/#Comment_4595867
 
-### Emotes altered by Personalities
+# Emotes altered by Personalities
 
-###### Assassin
+### Assassin
 *Travel to the Gold Coast for the first time*
 
 - /eat2
@@ -223,37 +223,37 @@ https://forums.elderscrollsonline.com/en/discussion/comment/4595867/#Comment_459
 - /leanback
 - /leanside
 
-##### Beast
+### Beast
 *Acquire "March of Sacrifices Challenger" Achievement*
 
-###### Wolfhunter , Veteran
+#### Wolfhunter , Veteran
 Achievement poins: 50
 
 Complete the listed achievements for Vet March of Sacrifices
 
-###### Hircine's Champion (50pts)
+##### Hircine's Champion (50pts)
 - Defeat Balorgh after desecrating the Moon Hunter's Pack banner and driving him into a murderous rage (Vet)
-###### Survival of the Fittest (50pts)
+##### Survival of the Fittest (50pts)
 - Defeat all encounters without suffering a group member death, in addition to
   - Wyrd Sisters
   - Argaedh of the Solstice
   - Dagrund the Bulky
   - Tarcyr
-###### Pure Instinct (50pts)
+##### Pure Instinct (50pts)
 - Defeat all encounters in under 30 minutes, in addition to
   - Wyrd Sisters
   - Argaedh of the Solstice
   - Dagrund the Bulky
   - Tarcyr
 *Timer starts when players jump or teleport into Bloodscent Pass
-###### March of Sacrifices Conquerer (10pts)
+##### March of Sacrifices Conquerer (10pts)
 - Defeat (on Vet)
   - Wyrd Sisters
   - Argaedh of the Solstice
   - Dagrund the Bulky
   - Tarcyr
   - Balorgh
-```
+
 
 - /eat2
 - /greet
@@ -261,7 +261,7 @@ Complete the listed achievements for Vet March of Sacrifices
 - /idle3 (Casual) *Not sure about idle3 being casual*
 - /idle4 (Angry)
 
-##### Telvanni Magister
+### Telvanni Magister
 *Complete Telvanni quest line in Vvardenfell*
 
 - /read
@@ -272,29 +272,29 @@ Complete the listed achievements for Vet March of Sacrifices
 - /idle4 (Angry)
 - /armscrossed
 
-###### Worm Wizard
+### Worm Wizard
 *Complete "Fang Lair Challenger" achievement*
 
-##### Fang Lair Challenger (50pts
+#### Fang Lair Challenger (50pts
 Complete the listed achievements (Vet)
 
-###### Fang Lair Conqueror (5pts)
+##### Fang Lair Conqueror (5pts)
 - Defeat (on Vet)
   - Lizabet Charnis
   - the Cadaverous Managerie
   - Caluurion
   - Ulfnor and Sabina Sedus
   - Orryn the Black and Thurvokun
-###### Let Bygones be Bygones (50pts)
+##### Let Bygones be Bygones (50pts)
 Defeat Orryn the Black and Thurvokun after reading the incantation in Orryn's Notes (Vet)
-###### Not a Statistic (50pts)
+##### Not a Statistic (50pts)
 - Defeat all encounters without suffering a group member death, in addition to
   - Lizabet Charnis
   - the Cadaverous Managerie
   - Caluurion
   - Ulfnor and Sabina Sedus
   - Orryn the Black and Thurvokun
-###### The Quick and the Dead (50pts)
+##### The Quick and the Dead (50pts)
 - Defeat all encounters in under 30 minutes, in addition to
   - Lizabet Charnis
   - the Cadaverous Managerie
@@ -302,7 +302,7 @@ Defeat Orryn the Black and Thurvokun after reading the incantation in Orryn's No
   - Ulfnor and Sabina Sedus
   - Orryn the Black and Thurvokun
 *Timer starts upon engaging the first group of Blackmarror necromancers
-```
+
 
 - /bless
 - /dishonor
