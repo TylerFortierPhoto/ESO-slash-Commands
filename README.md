@@ -218,10 +218,11 @@ https://forums.elderscrollsonline.com/en/discussion/comment/4595867/#Comment_459
 ### Assassin
 *Travel to the Gold Coast for the first time*
 
-- /eat2
-- /greet
-- /leanback
-- /leanside
+- **Slash Commands**
+  - /eat2
+  - /greet
+  - /leanback
+  - /leanside
 
 ### Beast
 *Acquire "March of Sacrifices Challenger" Achievement*
@@ -254,23 +255,24 @@ Complete the listed achievements for Vet March of Sacrifices
   - Tarcyr
   - Balorgh
 
-
-- /eat2
-- /greet
-- /idle2 (Royalty)
-- /idle3 (Casual) *Not sure about idle3 being casual*
-- /idle4 (Angry)
+- **Slash Commands**
+  - /eat2
+  - /greet
+  - /idle2 (Royalty)
+  - /idle3 (Casual) *Not sure about idle3 being casual*
+  - /idle4 (Angry)
 
 ### Telvanni Magister
 *Complete Telvanni quest line in Vvardenfell*
 
-- /read
-- /juggleflame
-- /ritual
-- /doom
-- /idle2 (Royalty)
-- /idle4 (Angry)
-- /armscrossed
+- **Slash Commands**
+  - /read
+  - /juggleflame
+  - /ritual
+  - /doom
+  - /idle2 (Royalty)
+  - /idle4 (Angry)
+  - /armscrossed
 
 ### Worm Wizard
 *Complete "Fang Lair Challenger" achievement*
@@ -303,8 +305,8 @@ Defeat Orryn the Black and Thurvokun after reading the incantation in Orryn's No
   - Orryn the Black and Thurvokun
 *Timer starts upon engaging the first group of Blackmarror necromancers
 
-
-- /bless
-- /dishonor
-- /doom
-- /ritual
+- **Slash Commands**
+  - /bless
+  - /dishonor
+  - /doom
+  - /ritual
