@@ -311,4 +311,4 @@ Defeat Orryn the Black and Thurvokun after reading the incantation in Orryn's No
   - /doom
   - /ritual
 
-Test 4
+Last updated: 7:02PM EDT (-5:00 ; Daylight Savings applied)
